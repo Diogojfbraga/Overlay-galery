@@ -1,5 +1,7 @@
 # Image Averaging and Transition
 
+![image](https://github.com/Diogojfbraga/Overlay-galery/assets/67931865/fc508c1e-5769-49cb-9aea-3416e75bd7c7)
+
 This p5.js project demonstrates image averaging and transition effects. A set of images is loaded, and their pixel values are averaged to create a composite image. Additionally, a transition effect allows blending between a randomly selected image and the average image.
 
 ## Features
